@@ -7,5 +7,5 @@ import { Component } from "@angular/core";
 })
 export class AppComponent {
   title = "CodeSandbox";
-  stuff : number = 32;
+  stuff: number = 42;
 }
